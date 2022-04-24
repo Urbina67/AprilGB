@@ -59,6 +59,7 @@ int SumNegative(int[] Massive)
 
 int[] negative = {-3, 0, 4, 8, -6, -7};
 //int resultN = SumNegative(negative);
+//
 //int result = Sum(Inga);
 System.Console.WriteLine();
 System.Console.WriteLine(Sum(Inga));
