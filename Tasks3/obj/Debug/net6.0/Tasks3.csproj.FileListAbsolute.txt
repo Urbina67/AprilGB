@@ -1,0 +1,15 @@
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\obj\Debug\net6.0\Tasks3.csproj.AssemblyReference.cache
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\obj\Debug\net6.0\Tasks3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\obj\Debug\net6.0\Tasks3.AssemblyInfoInputs.cache
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\obj\Debug\net6.0\Tasks3.AssemblyInfo.cs
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\obj\Debug\net6.0\Tasks3.csproj.CoreCompileInputs.cache
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\bin\Debug\net6.0\Tasks3.exe
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\bin\Debug\net6.0\Tasks3.deps.json
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\bin\Debug\net6.0\Tasks3.runtimeconfig.json
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\bin\Debug\net6.0\Tasks3.dll
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\bin\Debug\net6.0\Tasks3.pdb
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\obj\Debug\net6.0\Tasks3.dll
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\obj\Debug\net6.0\refint\Tasks3.dll
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\obj\Debug\net6.0\Tasks3.pdb
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\obj\Debug\net6.0\Tasks3.genruntimeconfig.cache
+C:\Users\sonbe\Desktop\Seminar 4\Tasks\Tasks3\obj\Debug\net6.0\ref\Tasks3.dll
