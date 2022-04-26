@@ -1,0 +1,15 @@
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\bin\Debug\net6.0\Task6.exe
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\bin\Debug\net6.0\Task6.deps.json
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\bin\Debug\net6.0\Task6.runtimeconfig.json
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\bin\Debug\net6.0\Task6.dll
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\bin\Debug\net6.0\Task6.pdb
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\obj\Debug\net6.0\Task6.csproj.AssemblyReference.cache
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\obj\Debug\net6.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\obj\Debug\net6.0\Task6.AssemblyInfoInputs.cache
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\obj\Debug\net6.0\Task6.AssemblyInfo.cs
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\obj\Debug\net6.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\obj\Debug\net6.0\Task6.dll
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\obj\Debug\net6.0\refint\Task6.dll
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\obj\Debug\net6.0\Task6.pdb
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\obj\Debug\net6.0\Task6.genruntimeconfig.cache
+C:\Users\ITSpec\Desktop\AprelGB\AprilGB\Senior\Task6\obj\Debug\net6.0\ref\Task6.dll
